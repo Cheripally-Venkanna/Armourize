@@ -1,0 +1,12 @@
+let a=12;
+let b=3;
+let addition=a+b;
+let subtractor=a-b;
+let multiplication=a*b;
+let division=a/b;
+let modulor=a%b;
+console.log(addition);
+console.log(subtractor);
+console.log(multiplication);
+console.log(division);
+console.log(modulor);

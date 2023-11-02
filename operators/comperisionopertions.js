@@ -1,0 +1,10 @@
+let x=13;
+let y="13";
+console.log(x==y);
+console.log(x!=y);
+console.log(x===y);
+console.log(x!==y);
+console.log(x>y);
+console.log(x<y);
+console.log(x>=y);
+console.log(x<=y);
