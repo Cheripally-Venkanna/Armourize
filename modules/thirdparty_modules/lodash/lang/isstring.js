@@ -1,0 +1,5 @@
+let _=require('lodash')
+let x =_.isString(62626)
+console.log(x)
+let y=_.isString("well played")
+console.log(y)
